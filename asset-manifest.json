@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/todo_task1/static/css/main.baa8dea1.chunk.css",
+    "main.js": "/todo_task1/static/js/main.e379b658.chunk.js",
+    "main.js.map": "/todo_task1/static/js/main.e379b658.chunk.js.map",
+    "runtime-main.js": "/todo_task1/static/js/runtime-main.85918a4b.js",
+    "runtime-main.js.map": "/todo_task1/static/js/runtime-main.85918a4b.js.map",
+    "static/css/2.56001c6a.chunk.css": "/todo_task1/static/css/2.56001c6a.chunk.css",
+    "static/js/2.ea4586b0.chunk.js": "/todo_task1/static/js/2.ea4586b0.chunk.js",
+    "static/js/2.ea4586b0.chunk.js.map": "/todo_task1/static/js/2.ea4586b0.chunk.js.map",
+    "static/js/3.3ad9fdf5.chunk.js": "/todo_task1/static/js/3.3ad9fdf5.chunk.js",
+    "static/js/3.3ad9fdf5.chunk.js.map": "/todo_task1/static/js/3.3ad9fdf5.chunk.js.map",
+    "index.html": "/todo_task1/index.html",
+    "static/css/2.56001c6a.chunk.css.map": "/todo_task1/static/css/2.56001c6a.chunk.css.map",
+    "static/css/main.baa8dea1.chunk.css.map": "/todo_task1/static/css/main.baa8dea1.chunk.css.map",
+    "static/js/2.ea4586b0.chunk.js.LICENSE.txt": "/todo_task1/static/js/2.ea4586b0.chunk.js.LICENSE.txt",
+    "static/media/Hourglass.9339400d.gif": "/todo_task1/static/media/Hourglass.9339400d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85918a4b.js",
+    "static/css/2.56001c6a.chunk.css",
+    "static/js/2.ea4586b0.chunk.js",
+    "static/css/main.baa8dea1.chunk.css",
+    "static/js/main.e379b658.chunk.js"
+  ]
+}
